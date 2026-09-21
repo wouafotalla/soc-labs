@@ -1,9 +1,7 @@
 
 
 <div align="center">
-
-# 🛡️ HELLO WELCOME
-
+  
 ### Building enterprise security solutions, Active Directory labs, SIEM monitoring workflows, and FinTech reconciliation systems for modern digital financial environments.
 
 <p>
